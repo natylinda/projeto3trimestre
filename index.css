@@ -1,6 +1,6 @@
 body {
 
-background-color: azure;
+background-color: white(168, 164, 164);
 
 
 }
@@ -21,8 +21,44 @@ box-shadow:0px  14px 32px 0px rgba (0,0,0,0.15)
 float: left;
 height: 420px;
 width: 327px;
-
-
+border-radius: 7px 0 7px;
+background-color: aliceblue;
 
 
 }
+.produto-imagem{
+    float: left;
+    height: 420px;
+    width: 327px;
+    border-radius: 7px 0 7px;
+    background-color: aliceblue;
+}
+.diariodeumbananatexto{
+ height: 10px;
+ width: 327px;
+}
+.produtotexto h1
+.botaopreco p{
+
+font-family: 'benthman', serif;
+}
+.produtotextoh2{
+margin: 0 0 47px 38px ;
+font-size: 13px ;
+font-family: 'releway, sans-serif';
+font-weight: 400;
+text-transform: uppercase;
+color: aliceblue;
+
+
+}
+.produtotexto p{
+height: 225px;
+padding-bottom: 100px;
+margin: 0 0 47px 38px;
+font-family: ;
+
+
+
+
+} 
